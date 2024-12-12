@@ -54,7 +54,7 @@ npm install
 
 ### 3. Environment Configuration
 
-Create an `.env` file in the `server/` directory with the following environment variables:
+Create an `.env` file in the `main` directory with the following environment variables:
 
 ```env
 API_KEY=<your_api_key>
